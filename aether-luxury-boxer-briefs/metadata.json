@@ -1,0 +1,6 @@
+{
+  "name": "Aether Luxury Boxer Briefs",
+  "description": "极简高端男士四角内裤沉浸式视觉排版官网，采用滚动视差、高精度材质纹理展示及丝滑剪裁工艺交互",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
